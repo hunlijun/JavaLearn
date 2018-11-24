@@ -27,7 +27,6 @@ import java.util.List;
  */
 @SpringBootApplication
 @RestController
-@EnableAutoConfiguration
 @EnableGlobalMethodSecurity(prePostEnabled = true)
 public class DemoApplication {
 

@@ -7,7 +7,6 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.builders.WebSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
-
 /**
  * Created by jimin on 2017/8/24.
  */
@@ -20,13 +19,13 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
-//        auth.inMemoryAuthentication().withUser("admin").password("123456").roles("ADMIN");
+       auth.inMemoryAuthentication().withUser("admin").password("123456").roles("ADMIN");
 //        auth.inMemoryAuthentication().withUser("zhangsan").password("zhangsan").roles("ADMIN");
 //        auth.inMemoryAuthentication().withUser("demo").password("demo").roles("USER");
 //
-        auth.userDetailsService(myUserService).passwordEncoder(new MyPasswordEncoder());
+        //auth.userDetailsService(myUserService).passwordEncoder(new MyPasswordEncoder());
 
-        auth.jdbcAuthentication().usersByUsernameQuery("").authoritiesByUsernameQuery("").passwordEncoder(new MyPasswordEncoder());
+        //auth.jdbcAuthentication().usersByUsernameQuery("").authoritiesByUsernameQuery("").passwordEncoder(new MyPasswordEncoder());
     }
 
     @Override
