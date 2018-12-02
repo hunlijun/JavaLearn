@@ -22,5 +22,6 @@ alt+F8          debug时选中查看值
 实现接口方法： alt+insert
 快速输入main方法：psvm
 格式化代码：ctrl+alt+L
+代码注释：ctrl+/
 ```
 
