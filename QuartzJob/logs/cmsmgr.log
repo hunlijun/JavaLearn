@@ -1,0 +1,105 @@
+2018-12-02 15:08:02 QuartzJobTest.java INFO 启动时间 ： Sun Dec 02 15:08:02 CST 2018
+2018-12-02 15:08:02 QuartzJobTest.java ERROR 启动时间 ： Sun Dec 02 15:08:02 CST 2018
+2018-12-02 15:08:45 QuartzJobTest.java INFO 启动时间 ： Sun Dec 02 15:08:45 CST 2018
+2018-12-02 15:08:48 RamJob.java INFO Say hello to QuartzSun Dec 02 15:08:48 CST 2018
+2018-12-02 15:08:50 RamJob.java INFO Say hello to QuartzSun Dec 02 15:08:50 CST 2018
+2018-12-02 15:08:52 RamJob.java INFO Say hello to QuartzSun Dec 02 15:08:52 CST 2018
+2018-12-02 15:08:54 RamJob.java INFO Say hello to QuartzSun Dec 02 15:08:54 CST 2018
+2018-12-02 15:08:56 RamJob.java INFO Say hello to QuartzSun Dec 02 15:08:56 CST 2018
+2018-12-02 15:08:58 RamJob.java INFO Say hello to QuartzSun Dec 02 15:08:58 CST 2018
+2018-12-02 15:09:00 RamJob.java INFO Say hello to QuartzSun Dec 02 15:09:00 CST 2018
+2018-12-02 15:09:02 RamJob.java INFO Say hello to QuartzSun Dec 02 15:09:02 CST 2018
+2018-12-02 15:09:04 RamJob.java INFO Say hello to QuartzSun Dec 02 15:09:04 CST 2018
+2018-12-02 15:09:06 RamJob.java INFO Say hello to QuartzSun Dec 02 15:09:06 CST 2018
+2018-12-02 15:26:36 StdSchedulerFactory.java INFO Using default implementation for ThreadExecutor
+2018-12-02 15:26:36 SimpleThreadPool.java INFO Job execution threads will use class loader of thread: main
+2018-12-02 15:26:36 SchedulerSignalerImpl.java INFO Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-02 15:26:36 QuartzScheduler.java INFO Quartz Scheduler v.2.2.1 created.
+2018-12-02 15:26:36 RAMJobStore.java INFO RAMJobStore initialized.
+2018-12-02 15:26:36 QuartzScheduler.java INFO Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-02 15:26:36 StdSchedulerFactory.java INFO Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2018-12-02 15:26:36 StdSchedulerFactory.java INFO Quartz scheduler version: 2.2.1
+2018-12-02 15:26:36 QuartzScheduler.java INFO Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2018-12-02 15:26:36 QuartzJobTest.java INFO 启动时间 ： Sun Dec 02 15:26:36 CST 2018
+2018-12-02 15:26:40 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:40 CST 2018
+2018-12-02 15:26:42 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:42 CST 2018
+2018-12-02 15:26:44 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:44 CST 2018
+2018-12-02 15:26:46 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:46 CST 2018
+2018-12-02 15:26:48 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:48 CST 2018
+2018-12-02 15:26:50 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:50 CST 2018
+2018-12-02 15:26:52 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:52 CST 2018
+2018-12-02 15:26:54 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:54 CST 2018
+2018-12-02 15:26:56 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:56 CST 2018
+2018-12-02 15:26:58 RamJob.java INFO Say hello to QuartzSun Dec 02 15:26:58 CST 2018
+2018-12-02 15:27:00 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:00 CST 2018
+2018-12-02 15:27:02 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:02 CST 2018
+2018-12-02 15:27:04 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:04 CST 2018
+2018-12-02 15:27:12 StdSchedulerFactory.java INFO Using default implementation for ThreadExecutor
+2018-12-02 15:27:12 SimpleThreadPool.java INFO Job execution threads will use class loader of thread: main
+2018-12-02 15:27:12 SchedulerSignalerImpl.java INFO Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-12-02 15:27:12 QuartzScheduler.java INFO Quartz Scheduler v.2.2.1 created.
+2018-12-02 15:27:12 RAMJobStore.java INFO RAMJobStore initialized.
+2018-12-02 15:27:12 QuartzScheduler.java INFO Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-12-02 15:27:12 StdSchedulerFactory.java INFO Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2018-12-02 15:27:12 StdSchedulerFactory.java INFO Quartz scheduler version: 2.2.1
+2018-12-02 15:27:12 QuartzScheduler.java INFO Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2018-12-02 15:27:12 QuartzJobTest.java INFO 启动时间 ： Sun Dec 02 15:27:12 CST 2018
+2018-12-02 15:27:16 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:16 CST 2018
+2018-12-02 15:27:18 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:18 CST 2018
+2018-12-02 15:27:20 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:20 CST 2018
+2018-12-02 15:27:22 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:22 CST 2018
+2018-12-02 15:27:24 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:24 CST 2018
+2018-12-02 15:27:26 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:26 CST 2018
+2018-12-02 15:27:28 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:28 CST 2018
+2018-12-02 15:27:30 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:30 CST 2018
+2018-12-02 15:27:32 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:32 CST 2018
+2018-12-02 15:27:34 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:34 CST 2018
+2018-12-02 15:27:36 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:36 CST 2018
+2018-12-02 15:27:38 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:38 CST 2018
+2018-12-02 15:27:40 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:40 CST 2018
+2018-12-02 15:27:42 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:42 CST 2018
+2018-12-02 15:27:44 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:44 CST 2018
+2018-12-02 15:27:46 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:46 CST 2018
+2018-12-02 15:27:48 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:48 CST 2018
+2018-12-02 15:27:50 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:50 CST 2018
+2018-12-02 15:27:52 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:52 CST 2018
+2018-12-02 15:27:54 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:54 CST 2018
+2018-12-02 15:27:56 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:56 CST 2018
+2018-12-02 15:27:58 RamJob.java INFO Say hello to QuartzSun Dec 02 15:27:58 CST 2018
+2018-12-02 15:28:00 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:00 CST 2018
+2018-12-02 15:28:02 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:02 CST 2018
+2018-12-02 15:28:04 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:04 CST 2018
+2018-12-02 15:28:06 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:06 CST 2018
+2018-12-02 15:28:08 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:08 CST 2018
+2018-12-02 15:28:10 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:10 CST 2018
+2018-12-02 15:28:12 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:12 CST 2018
+2018-12-02 15:28:14 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:14 CST 2018
+2018-12-02 15:28:16 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:16 CST 2018
+2018-12-02 15:28:18 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:18 CST 2018
+2018-12-02 15:28:20 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:20 CST 2018
+2018-12-02 15:28:22 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:22 CST 2018
+2018-12-02 15:28:24 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:24 CST 2018
+2018-12-02 15:28:26 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:26 CST 2018
+2018-12-02 15:28:28 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:28 CST 2018
+2018-12-02 15:28:30 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:30 CST 2018
+2018-12-02 15:28:32 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:32 CST 2018
+2018-12-02 15:28:34 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:34 CST 2018
+2018-12-02 15:28:36 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:36 CST 2018
+2018-12-02 15:28:38 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:38 CST 2018
+2018-12-02 15:28:40 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:40 CST 2018
+2018-12-02 15:28:42 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:42 CST 2018
+2018-12-02 15:28:44 RamJob.java INFO Say hello to QuartzSun Dec 02 15:28:44 CST 2018

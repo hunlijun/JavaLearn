@@ -1,0 +1,105 @@
+[2018-12-02 15:08:02] com.free.QuartzJobTest.main(QuartzJobTest.java:46)main 启动时间 ： Sun Dec 02 15:08:02 CST 2018
+[2018-12-02 15:08:02] com.free.QuartzJobTest.main(QuartzJobTest.java:47)main 启动时间 ： Sun Dec 02 15:08:02 CST 2018
+[2018-12-02 15:08:45] com.free.QuartzJobTest.main(QuartzJobTest.java:46)main 启动时间 ： Sun Dec 02 15:08:45 CST 2018
+[2018-12-02 15:08:48] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-1 Say hello to QuartzSun Dec 02 15:08:48 CST 2018
+[2018-12-02 15:08:50] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-2 Say hello to QuartzSun Dec 02 15:08:50 CST 2018
+[2018-12-02 15:08:52] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-3 Say hello to QuartzSun Dec 02 15:08:52 CST 2018
+[2018-12-02 15:08:54] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-4 Say hello to QuartzSun Dec 02 15:08:54 CST 2018
+[2018-12-02 15:08:56] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-5 Say hello to QuartzSun Dec 02 15:08:56 CST 2018
+[2018-12-02 15:08:58] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-6 Say hello to QuartzSun Dec 02 15:08:58 CST 2018
+[2018-12-02 15:09:00] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-7 Say hello to QuartzSun Dec 02 15:09:00 CST 2018
+[2018-12-02 15:09:02] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-8 Say hello to QuartzSun Dec 02 15:09:02 CST 2018
+[2018-12-02 15:09:04] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-9 Say hello to QuartzSun Dec 02 15:09:04 CST 2018
+[2018-12-02 15:09:06] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-10 Say hello to QuartzSun Dec 02 15:09:06 CST 2018
+[2018-12-02 15:26:36] org.quartz.impl.StdSchedulerFactory.instantiate(StdSchedulerFactory.java:1184)main Using default implementation for ThreadExecutor
+[2018-12-02 15:26:36] org.quartz.simpl.SimpleThreadPool.initialize(SimpleThreadPool.java:268)main Job execution threads will use class loader of thread: main
+[2018-12-02 15:26:36] org.quartz.core.SchedulerSignalerImpl.<init>(SchedulerSignalerImpl.java:61)main Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2018-12-02 15:26:36] org.quartz.core.QuartzScheduler.<init>(QuartzScheduler.java:240)main Quartz Scheduler v.2.2.1 created.
+[2018-12-02 15:26:36] org.quartz.simpl.RAMJobStore.initialize(RAMJobStore.java:155)main RAMJobStore initialized.
+[2018-12-02 15:26:36] org.quartz.core.QuartzScheduler.initialize(QuartzScheduler.java:305)main Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[2018-12-02 15:26:36] org.quartz.impl.StdSchedulerFactory.instantiate(StdSchedulerFactory.java:1339)main Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2018-12-02 15:26:36] org.quartz.impl.StdSchedulerFactory.instantiate(StdSchedulerFactory.java:1343)main Quartz scheduler version: 2.2.1
+[2018-12-02 15:26:36] org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:575)main Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+[2018-12-02 15:26:36] com.free.QuartzJobTest.main(QuartzJobTest.java:47)main 启动时间 ： Sun Dec 02 15:26:36 CST 2018
+[2018-12-02 15:26:40] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-1 Say hello to QuartzSun Dec 02 15:26:40 CST 2018
+[2018-12-02 15:26:42] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-2 Say hello to QuartzSun Dec 02 15:26:42 CST 2018
+[2018-12-02 15:26:44] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-3 Say hello to QuartzSun Dec 02 15:26:44 CST 2018
+[2018-12-02 15:26:46] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-4 Say hello to QuartzSun Dec 02 15:26:46 CST 2018
+[2018-12-02 15:26:48] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-5 Say hello to QuartzSun Dec 02 15:26:48 CST 2018
+[2018-12-02 15:26:50] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-6 Say hello to QuartzSun Dec 02 15:26:50 CST 2018
+[2018-12-02 15:26:52] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-7 Say hello to QuartzSun Dec 02 15:26:52 CST 2018
+[2018-12-02 15:26:54] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-8 Say hello to QuartzSun Dec 02 15:26:54 CST 2018
+[2018-12-02 15:26:56] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-9 Say hello to QuartzSun Dec 02 15:26:56 CST 2018
+[2018-12-02 15:26:58] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-10 Say hello to QuartzSun Dec 02 15:26:58 CST 2018
+[2018-12-02 15:27:00] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-1 Say hello to QuartzSun Dec 02 15:27:00 CST 2018
+[2018-12-02 15:27:02] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-2 Say hello to QuartzSun Dec 02 15:27:02 CST 2018
+[2018-12-02 15:27:04] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-3 Say hello to QuartzSun Dec 02 15:27:04 CST 2018
+[2018-12-02 15:27:12] org.quartz.impl.StdSchedulerFactory.instantiate(StdSchedulerFactory.java:1184)main Using default implementation for ThreadExecutor
+[2018-12-02 15:27:12] org.quartz.simpl.SimpleThreadPool.initialize(SimpleThreadPool.java:268)main Job execution threads will use class loader of thread: main
+[2018-12-02 15:27:12] org.quartz.core.SchedulerSignalerImpl.<init>(SchedulerSignalerImpl.java:61)main Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[2018-12-02 15:27:12] org.quartz.core.QuartzScheduler.<init>(QuartzScheduler.java:240)main Quartz Scheduler v.2.2.1 created.
+[2018-12-02 15:27:12] org.quartz.simpl.RAMJobStore.initialize(RAMJobStore.java:155)main RAMJobStore initialized.
+[2018-12-02 15:27:12] org.quartz.core.QuartzScheduler.initialize(QuartzScheduler.java:305)main Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[2018-12-02 15:27:12] org.quartz.impl.StdSchedulerFactory.instantiate(StdSchedulerFactory.java:1339)main Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+[2018-12-02 15:27:12] org.quartz.impl.StdSchedulerFactory.instantiate(StdSchedulerFactory.java:1343)main Quartz scheduler version: 2.2.1
+[2018-12-02 15:27:12] org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:575)main Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+[2018-12-02 15:27:12] com.free.QuartzJobTest.main(QuartzJobTest.java:47)main 启动时间 ： Sun Dec 02 15:27:12 CST 2018
+[2018-12-02 15:27:16] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-1 Say hello to QuartzSun Dec 02 15:27:16 CST 2018
+[2018-12-02 15:27:18] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-2 Say hello to QuartzSun Dec 02 15:27:18 CST 2018
+[2018-12-02 15:27:20] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-3 Say hello to QuartzSun Dec 02 15:27:20 CST 2018
+[2018-12-02 15:27:22] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-4 Say hello to QuartzSun Dec 02 15:27:22 CST 2018
+[2018-12-02 15:27:24] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-5 Say hello to QuartzSun Dec 02 15:27:24 CST 2018
+[2018-12-02 15:27:26] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-6 Say hello to QuartzSun Dec 02 15:27:26 CST 2018
+[2018-12-02 15:27:28] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-7 Say hello to QuartzSun Dec 02 15:27:28 CST 2018
+[2018-12-02 15:27:30] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-8 Say hello to QuartzSun Dec 02 15:27:30 CST 2018
+[2018-12-02 15:27:32] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-9 Say hello to QuartzSun Dec 02 15:27:32 CST 2018
+[2018-12-02 15:27:34] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-10 Say hello to QuartzSun Dec 02 15:27:34 CST 2018
+[2018-12-02 15:27:36] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-1 Say hello to QuartzSun Dec 02 15:27:36 CST 2018
+[2018-12-02 15:27:38] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-2 Say hello to QuartzSun Dec 02 15:27:38 CST 2018
+[2018-12-02 15:27:40] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-3 Say hello to QuartzSun Dec 02 15:27:40 CST 2018
+[2018-12-02 15:27:42] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-4 Say hello to QuartzSun Dec 02 15:27:42 CST 2018
+[2018-12-02 15:27:44] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-5 Say hello to QuartzSun Dec 02 15:27:44 CST 2018
+[2018-12-02 15:27:46] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-6 Say hello to QuartzSun Dec 02 15:27:46 CST 2018
+[2018-12-02 15:27:48] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-7 Say hello to QuartzSun Dec 02 15:27:48 CST 2018
+[2018-12-02 15:27:50] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-8 Say hello to QuartzSun Dec 02 15:27:50 CST 2018
+[2018-12-02 15:27:52] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-9 Say hello to QuartzSun Dec 02 15:27:52 CST 2018
+[2018-12-02 15:27:54] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-10 Say hello to QuartzSun Dec 02 15:27:54 CST 2018
+[2018-12-02 15:27:56] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-1 Say hello to QuartzSun Dec 02 15:27:56 CST 2018
+[2018-12-02 15:27:58] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-2 Say hello to QuartzSun Dec 02 15:27:58 CST 2018
+[2018-12-02 15:28:00] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-3 Say hello to QuartzSun Dec 02 15:28:00 CST 2018
+[2018-12-02 15:28:02] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-4 Say hello to QuartzSun Dec 02 15:28:02 CST 2018
+[2018-12-02 15:28:04] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-5 Say hello to QuartzSun Dec 02 15:28:04 CST 2018
+[2018-12-02 15:28:06] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-6 Say hello to QuartzSun Dec 02 15:28:06 CST 2018
+[2018-12-02 15:28:08] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-7 Say hello to QuartzSun Dec 02 15:28:08 CST 2018
+[2018-12-02 15:28:10] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-8 Say hello to QuartzSun Dec 02 15:28:10 CST 2018
+[2018-12-02 15:28:12] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-9 Say hello to QuartzSun Dec 02 15:28:12 CST 2018
+[2018-12-02 15:28:14] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-10 Say hello to QuartzSun Dec 02 15:28:14 CST 2018
+[2018-12-02 15:28:16] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-1 Say hello to QuartzSun Dec 02 15:28:16 CST 2018
+[2018-12-02 15:28:18] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-2 Say hello to QuartzSun Dec 02 15:28:18 CST 2018
+[2018-12-02 15:28:20] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-3 Say hello to QuartzSun Dec 02 15:28:20 CST 2018
+[2018-12-02 15:28:22] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-4 Say hello to QuartzSun Dec 02 15:28:22 CST 2018
+[2018-12-02 15:28:24] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-5 Say hello to QuartzSun Dec 02 15:28:24 CST 2018
+[2018-12-02 15:28:26] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-6 Say hello to QuartzSun Dec 02 15:28:26 CST 2018
+[2018-12-02 15:28:28] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-7 Say hello to QuartzSun Dec 02 15:28:28 CST 2018
+[2018-12-02 15:28:30] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-8 Say hello to QuartzSun Dec 02 15:28:30 CST 2018
+[2018-12-02 15:28:32] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-9 Say hello to QuartzSun Dec 02 15:28:32 CST 2018
+[2018-12-02 15:28:34] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-10 Say hello to QuartzSun Dec 02 15:28:34 CST 2018
+[2018-12-02 15:28:36] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-1 Say hello to QuartzSun Dec 02 15:28:36 CST 2018
+[2018-12-02 15:28:38] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-2 Say hello to QuartzSun Dec 02 15:28:38 CST 2018
+[2018-12-02 15:28:40] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-3 Say hello to QuartzSun Dec 02 15:28:40 CST 2018
+[2018-12-02 15:28:42] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-4 Say hello to QuartzSun Dec 02 15:28:42 CST 2018
+[2018-12-02 15:28:44] com.free.RamJob.execute(RamJob.java:17)DefaultQuartzScheduler_Worker-5 Say hello to QuartzSun Dec 02 15:28:44 CST 2018
