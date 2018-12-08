@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codemarks/codemarks.iml" filepath="$PROJECT_DIR$/codemarks/codemarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent/concurrent.iml" filepath="$PROJECT_DIR$/concurrent/concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/container/container.iml" filepath="$PROJECT_DIR$/container/container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure-algorithm/data-structure-algorithm.iml" filepath="$PROJECT_DIR$/data-structure-algorithm/data-structure-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-pattern/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io/io.iml" filepath="$PROJECT_DIR$/io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-codes.iml" filepath="$PROJECT_DIR$/java-codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
+    </modules>
+  </component>
+</project>
