@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="abstract-document" />
+        <module name="abstract-factory" />
+        <module name="acyclic-visitor" />
+        <module name="adapter" />
+        <module name="aggregator-service" />
+        <module name="ambassador" />
+        <module name="api-gateway-service" />
+        <module name="async-method-invocation" />
+        <module name="balking" />
+        <module name="bridge" />
+        <module name="builder" />
+        <module name="business-delegate" />
+        <module name="caching" />
+        <module name="callback" />
+        <module name="chain" />
+        <module name="collection-pipeline" />
+        <module name="command" />
+        <module name="composite" />
+        <module name="converter" />
+        <module name="cqrs" />
+        <module name="dao" />
+        <module name="data-bus" />
+        <module name="data-mapper" />
+        <module name="data-transfer-object" />
+        <module name="decorator" />
+        <module name="delegation" />
+        <module name="dependency-injection" />
+        <module name="dirty-flag" />
+        <module name="double-checked-locking" />
+        <module name="double-dispatch" />
+        <module name="eip-aggregator" />
+        <module name="eip-message-channel" />
+        <module name="eip-publish-subscribe" />
+        <module name="eip-splitter" />
+        <module name="eip-wire-tap" />
+        <module name="event-aggregator" />
+        <module name="event-asynchronous" />
+        <module name="event-driven-architecture" />
+        <module name="event-queue" />
+        <module name="event-sourcing" />
+        <module name="execute-around" />
+        <module name="extension-objects" />
+        <module name="facade" />
+        <module name="factory-kit" />
+        <module name="factory-method" />
+        <module name="feature-toggle" />
+        <module name="fluentinterface" />
+        <module name="flux" />
+        <module name="flyweight" />
+        <module name="front-controller" />
+        <module name="guarded-suspension" />
+        <module name="half-sync-half-async" />
+        <module name="hexagonal" />
+        <module name="image-microservice" />
+        <module name="information-microservice" />
+        <module name="intercepting-filter" />
+        <module name="interpreter" />
+        <module name="inventory-microservice" />
+        <module name="iterator" />
+        <module name="layers" />
+        <module name="lazy-loading" />
+        <module name="marker" />
+        <module name="mediator" />
+        <module name="memento" />
+        <module name="model-view-controller" />
+        <module name="model-view-presenter" />
+        <module name="module" />
+        <module name="monad" />
+        <module name="monostate" />
+        <module name="multiton" />
+        <module name="mute-idiom" />
+        <module name="mutex" />
+        <module name="naked-objects-dom" />
+        <module name="naked-objects-fixture" />
+        <module name="naked-objects-integtests" />
+        <module name="naked-objects-webapp" />
+        <module name="null-object" />
+        <module name="object-mother" />
+        <module name="object-pool" />
+        <module name="observer" />
+        <module name="partial-response" />
+        <module name="poison-pill" />
+        <module name="price-microservice" />
+        <module name="private-class-data" />
+        <module name="producer-consumer" />
+        <module name="promise" />
+        <module name="property" />
+        <module name="prototype" />
+        <module name="proxy" />
+        <module name="queue-load-leveling" />
+        <module name="reactor" />
+        <module name="reader-writer-lock" />
+        <module name="repository" />
+        <module name="resource-acquisition-is-initialization" />
+        <module name="retry" />
+        <module name="sample-application" />
+        <module name="semaphore" />
+        <module name="servant" />
+        <module name="serverless" />
+        <module name="service-layer" />
+        <module name="service-locator" />
+        <module name="singleton" />
+        <module name="specification" />
+        <module name="state" />
+        <module name="step-builder" />
+        <module name="strategy" />
+        <module name="template-method" />
+        <module name="test-automation" />
+        <module name="thread-pool" />
+        <module name="throttling" />
+        <module name="tls" />
+        <module name="tolerant-reader" />
+        <module name="trampoline" />
+        <module name="twin" />
+        <module name="unit-of-work" />
+        <module name="value-object" />
+        <module name="visitor" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="abstract-document" target="1.8" />
+      <module name="abstract-factory" target="1.8" />
+      <module name="acyclic-visitor" target="1.8" />
+      <module name="adapter" target="1.8" />
+      <module name="aggregator-microservices" target="1.8" />
+      <module name="aggregator-service" target="1.8" />
+      <module name="ambassador" target="1.8" />
+      <module name="api-gateway" target="1.8" />
+      <module name="api-gateway-service" target="1.8" />
+      <module name="async-method-invocation" target="1.8" />
+      <module name="balking" target="1.8" />
+      <module name="bridge" target="1.8" />
+      <module name="builder" target="1.8" />
+      <module name="business-delegate" target="1.8" />
+      <module name="caching" target="1.8" />
+      <module name="callback" target="1.8" />
+      <module name="chain" target="1.8" />
+      <module name="collection-pipeline" target="1.8" />
+      <module name="command" target="1.8" />
+      <module name="composite" target="1.8" />
+      <module name="converter" target="1.8" />
+      <module name="cqrs" target="1.8" />
+      <module name="dao" target="1.8" />
+      <module name="data-bus" target="1.8" />
+      <module name="data-mapper" target="1.8" />
+      <module name="data-transfer-object" target="1.8" />
+      <module name="decorator" target="1.8" />
+      <module name="delegation" target="1.8" />
+      <module name="dependency-injection" target="1.8" />
+      <module name="dirty-flag" target="1.8" />
+      <module name="double-checked-locking" target="1.8" />
+      <module name="double-dispatch" target="1.8" />
+      <module name="eip-aggregator" target="1.8" />
+      <module name="eip-message-channel" target="1.8" />
+      <module name="eip-publish-subscribe" target="1.8" />
+      <module name="eip-splitter" target="1.8" />
+      <module name="eip-wire-tap" target="1.8" />
+      <module name="event-aggregator" target="1.8" />
+      <module name="event-asynchronous" target="1.8" />
+      <module name="event-driven-architecture" target="1.8" />
+      <module name="event-queue" target="1.8" />
+      <module name="event-sourcing" target="1.8" />
+      <module name="execute-around" target="1.8" />
+      <module name="extension-objects" target="1.8" />
+      <module name="facade" target="1.8" />
+      <module name="factory-kit" target="1.8" />
+      <module name="factory-method" target="1.8" />
+      <module name="feature-toggle" target="1.8" />
+      <module name="fluentinterface" target="1.8" />
+      <module name="flux" target="1.8" />
+      <module name="flyweight" target="1.8" />
+      <module name="front-controller" target="1.8" />
+      <module name="guarded-suspension" target="1.8" />
+      <module name="half-sync-half-async" target="1.8" />
+      <module name="hexagonal" target="1.8" />
+      <module name="image-microservice" target="1.8" />
+      <module name="information-microservice" target="1.8" />
+      <module name="intercepting-filter" target="1.8" />
+      <module name="interpreter" target="1.8" />
+      <module name="inventory-microservice" target="1.8" />
+      <module name="iterator" target="1.8" />
+      <module name="java-design-patterns" target="1.8" />
+      <module name="layers" target="1.8" />
+      <module name="lazy-loading" target="1.8" />
+      <module name="marker" target="1.8" />
+      <module name="mediator" target="1.8" />
+      <module name="memento" target="1.8" />
+      <module name="model-view-controller" target="1.8" />
+      <module name="model-view-presenter" target="1.8" />
+      <module name="module" target="1.8" />
+      <module name="monad" target="1.8" />
+      <module name="monostate" target="1.8" />
+      <module name="multiton" target="1.8" />
+      <module name="mute-idiom" target="1.8" />
+      <module name="mutex" target="1.8" />
+      <module name="naked-objects" target="1.8" />
+      <module name="naked-objects-dom" target="1.8" />
+      <module name="naked-objects-fixture" target="1.8" />
+      <module name="naked-objects-integtests" target="1.8" />
+      <module name="naked-objects-webapp" target="1.8" />
+      <module name="null-object" target="1.8" />
+      <module name="object-mother" target="1.8" />
+      <module name="object-pool" target="1.8" />
+      <module name="observer" target="1.8" />
+      <module name="page-object" target="1.8" />
+      <module name="partial-response" target="1.8" />
+      <module name="poison-pill" target="1.8" />
+      <module name="price-microservice" target="1.8" />
+      <module name="private-class-data" target="1.8" />
+      <module name="producer-consumer" target="1.8" />
+      <module name="promise" target="1.8" />
+      <module name="property" target="1.8" />
+      <module name="prototype" target="1.8" />
+      <module name="proxy" target="1.8" />
+      <module name="queue-load-leveling" target="1.8" />
+      <module name="reactor" target="1.8" />
+      <module name="reader-writer-lock" target="1.8" />
+      <module name="repository" target="1.8" />
+      <module name="resource-acquisition-is-initialization" target="1.8" />
+      <module name="retry" target="1.8" />
+      <module name="sample-application" target="1.8" />
+      <module name="semaphore" target="1.8" />
+      <module name="servant" target="1.8" />
+      <module name="serverless" target="1.8" />
+      <module name="service-layer" target="1.8" />
+      <module name="service-locator" target="1.8" />
+      <module name="singleton" target="1.8" />
+      <module name="specification" target="1.8" />
+      <module name="state" target="1.8" />
+      <module name="step-builder" target="1.8" />
+      <module name="strategy" target="1.8" />
+      <module name="template-method" target="1.8" />
+      <module name="test-automation" target="1.8" />
+      <module name="thread-pool" target="1.8" />
+      <module name="throttling" target="1.8" />
+      <module name="tls" target="1.8" />
+      <module name="tolerant-reader" target="1.8" />
+      <module name="trampoline" target="1.8" />
+      <module name="twin" target="1.8" />
+      <module name="unit-of-work" target="1.8" />
+      <module name="value-object" target="1.8" />
+      <module name="visitor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="naked-objects-dom" options="-parameters" />
+      <module name="naked-objects-fixture" options="-parameters" />
+      <module name="naked-objects-integtests" options="-parameters" />
+      <module name="naked-objects-webapp" options="-parameters" />
+    </option>
+  </component>
+</project>
