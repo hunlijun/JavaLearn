@@ -1,5 +1,7 @@
 # SLF4j整合Log4j
 
+![1544250380979](C:\Users\Freeking\AppData\Roaming\Typora\typora-user-images\1544250380979.png)
+
 ### 一、导入包
 
 ```xml
